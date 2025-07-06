@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="add md" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NumeroCode&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NumeroCode/numerocode.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;efcbee85-3f14-453b-9320-f7aa4a900050&quot;
+  }
+}</component>
+  <component name="InstanceColorv3">
+    <option name="map">
+      <map>
+        <entry key="$PROJECT_DIR$/Writerside/Writerside_libraries.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="8" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="185" />
+                  <option name="darkBlue" value="185" />
+                  <option name="darkGreen" value="64" />
+                  <option name="darkRed" value="200" />
+                  <option name="green" value="64" />
+                  <option name="red" value="200" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="174" />
+                  <option name="darkBlue" value="174" />
+                  <option name="darkGreen" value="116" />
+                  <option name="darkRed" value="224" />
+                  <option name="green" value="116" />
+                  <option name="red" value="224" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside/datax.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="2" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="225" />
+                  <option name="darkBlue" value="225" />
+                  <option name="darkGreen" value="149" />
+                  <option name="darkRed" value="56" />
+                  <option name="green" value="149" />
+                  <option name="red" value="56" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="234" />
+                  <option name="darkBlue" value="234" />
+                  <option name="darkGreen" value="197" />
+                  <option name="darkRed" value="81" />
+                  <option name="green" value="197" />
+                  <option name="red" value="81" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside/hi.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="1" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="60" />
+                  <option name="darkBlue" value="60" />
+                  <option name="darkGreen" value="68" />
+                  <option name="darkRed" value="206" />
+                  <option name="green" value="68" />
+                  <option name="red" value="206" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="65" />
+                  <option name="darkBlue" value="65" />
+                  <option name="darkGreen" value="126" />
+                  <option name="darkRed" value="231" />
+                  <option name="green" value="126" />
+                  <option name="red" value="231" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside/magic-api.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="4" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="112" />
+                  <option name="darkBlue" value="112" />
+                  <option name="darkGreen" value="83" />
+                  <option name="darkRed" value="215" />
+                  <option name="green" value="83" />
+                  <option name="red" value="215" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="163" />
+                  <option name="darkBlue" value="163" />
+                  <option name="darkGreen" value="111" />
+                  <option name="darkRed" value="233" />
+                  <option name="green" value="111" />
+                  <option name="red" value="233" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside/低.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="3" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="147" />
+                  <option name="darkBlue" value="147" />
+                  <option name="darkGreen" value="69" />
+                  <option name="darkRed" value="143" />
+                  <option name="green" value="69" />
+                  <option name="red" value="143" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="227" />
+                  <option name="darkBlue" value="227" />
+                  <option name="darkGreen" value="114" />
+                  <option name="darkRed" value="181" />
+                  <option name="green" value="114" />
+                  <option name="red" value="181" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside/写.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="6" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="173" />
+                  <option name="darkBlue" value="173" />
+                  <option name="darkGreen" value="84" />
+                  <option name="darkRed" value="120" />
+                  <option name="green" value="84" />
+                  <option name="red" value="120" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="230" />
+                  <option name="darkBlue" value="230" />
+                  <option name="darkGreen" value="122" />
+                  <option name="darkRed" value="137" />
+                  <option name="green" value="122" />
+                  <option name="red" value="137" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside/写作.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="7" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="173" />
+                  <option name="darkBlue" value="173" />
+                  <option name="darkGreen" value="188" />
+                  <option name="darkRed" value="45" />
+                  <option name="green" value="188" />
+                  <option name="red" value="45" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="164" />
+                  <option name="darkBlue" value="164" />
+                  <option name="darkGreen" value="214" />
+                  <option name="darkRed" value="53" />
+                  <option name="green" value="214" />
+                  <option name="red" value="53" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside/搭.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="5" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="55" />
+                  <option name="darkBlue" value="55" />
+                  <option name="darkGreen" value="114" />
+                  <option name="darkRed" value="226" />
+                  <option name="green" value="114" />
+                  <option name="red" value="226" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="62" />
+                  <option name="darkBlue" value="62" />
+                  <option name="darkGreen" value="168" />
+                  <option name="darkRed" value="232" />
+                  <option name="green" value="168" />
+                  <option name="red" value="232" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside/数.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="9" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="232" />
+                  <option name="darkBlue" value="232" />
+                  <option name="darkGreen" value="117" />
+                  <option name="darkRed" value="123" />
+                  <option name="green" value="117" />
+                  <option name="red" value="123" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="235" />
+                  <option name="darkBlue" value="235" />
+                  <option name="darkGreen" value="153" />
+                  <option name="darkRed" value="125" />
+                  <option name="green" value="153" />
+                  <option name="red" value="125" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/Writerside/画.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="4" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="112" />
+                  <option name="darkBlue" value="112" />
+                  <option name="darkGreen" value="83" />
+                  <option name="darkRed" value="215" />
+                  <option name="green" value="83" />
+                  <option name="red" value="215" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="163" />
+                  <option name="darkBlue" value="163" />
+                  <option name="darkGreen" value="111" />
+                  <option name="darkRed" value="233" />
+                  <option name="green" value="111" />
+                  <option name="red" value="233" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2zSXIkYdls0qFpwjC2nLEDwxEUz" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Writerside.PDF (magic-api).executor&quot;: &quot;Run&quot;,
+    &quot;Writerside.写作web.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/learn/numerocode/Writerside/topics/数学&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Markdown Image Kit&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;writerside.last.selected.productnumerocode&quot;: &quot;写&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\learn\numerocode\Writerside\topics\数学" />
+      <recent name="D:\learn\numerocode\Writerside\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\learn\numerocode\Writerside\topics\写作" />
+      <recent name="D:\learn\numerocode\Writerside\topics\datax" />
+      <recent name="D:\learn\numerocode\Writerside\topics\写作\搭建自己的博客" />
+      <recent name="D:\learn\numerocode\Writerside\topics\magic-api" />
+      <recent name="D:\learn\numerocode\Writerside\topics\写作\写作工具" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Writerside.写作web">
+    <configuration name="PDF (magic-api)" type="StardustRunConfiguration" factoryName="build-pdf">
+      <option name="addCover" value="true" />
+      <option name="copyright" />
+      <option name="description" />
+      <option name="folderPath" value="$PROJECT_DIR$" />
+      <option name="footer" />
+      <option name="header" />
+      <option name="instanceId" value="magic-api" />
+      <option name="instanceName" value="magic-api" />
+      <option name="layout" />
+      <option name="logoPath" />
+      <option name="moduleName" value="Writerside" />
+      <option name="title" />
+      <method v="2" />
+    </configuration>
+    <configuration name="写作web" type="StardustRunConfiguration" factoryName="save-as-zip">
+      <option name="folderPath" value="$PROJECT_DIR$" />
+      <option name="instanceId" value="写" />
+      <option name="instanceName" value="我的写作工具与技巧" />
+      <option name="moduleName" value="Writerside" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="" />
+      <created>1751725370052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751725370052</updated>
+      <workItem from="1751725371541" duration="947000" />
+      <workItem from="1751726342217" duration="1126000" />
+      <workItem from="1751737684830" duration="246000" />
+      <workItem from="1751737948358" duration="1642000" />
+      <workItem from="1751772996690" duration="514000" />
+      <workItem from="1751773526879" duration="1251000" />
+      <workItem from="1751774799215" duration="508000" />
+      <workItem from="1751775331566" duration="562000" />
+      <workItem from="1751775915566" duration="443000" />
+      <workItem from="1751776376467" duration="643000" />
+      <workItem from="1751795481390" duration="7333000" />
+    </task>
+    <task id="LOCAL-00001" summary="gitignore">
+      <option name="closed" value="true" />
+      <created>1751808314944</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751808314944</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add md">
+      <option name="closed" value="true" />
+      <created>1751808782419</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751808782419</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="add md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add md" />
+  </component>
+</project>
