@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="add md" />
+    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="add web">
+      <change afterPath="$PROJECT_DIR$/doc/HelpTOC.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/Map.jhm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/api-object-digest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/current.help.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/images/PixPin_2025-07-06_17-54-20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/writerside.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/写作.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/截图软件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/搭建图床.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/HelpTOC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Map.jhm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/api-object-digest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/current.help.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/images/PixPin_2025-07-06_17-54-20.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/writerside.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/写作.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/截图软件.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/搭建图床.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -401,6 +424,7 @@
       <workItem from="1751775915566" duration="443000" />
       <workItem from="1751776376467" duration="643000" />
       <workItem from="1751795481390" duration="7333000" />
+      <workItem from="1751809441600" duration="450000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -418,7 +442,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751808782419</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add web">
+      <option name="closed" value="true" />
+      <created>1751809498624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751809498624</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -438,6 +470,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore" />
     <MESSAGE value="add md" />
-    <option name="LAST_COMMIT_MESSAGE" value="add md" />
+    <MESSAGE value="add web" />
+    <option name="LAST_COMMIT_MESSAGE" value="add web" />
   </component>
 </project>
