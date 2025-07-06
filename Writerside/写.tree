@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="写"
+                 name="我的写作工具与技巧"
+                 start-page="写作.md">
+
+    <toc-element topic="写作.md"/>
+    <toc-element toc-title="写作技巧"/>
+    <toc-element toc-title="写作工具">
+        <toc-element topic="WriterSide.md"/>
+        <toc-element topic="搭建图床.md"/>
+        <toc-element topic="截图软件.md"/>
+    </toc-element>
+</instance-profile>

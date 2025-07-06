@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="低"
+                 name="低代码"
+                 start-page="低代码.md">
+
+    <toc-element topic="低代码.md"/>
+</instance-profile>

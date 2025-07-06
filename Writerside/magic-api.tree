@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="magic-api"
+                 name="magic-api"
+                 start-page="magic-api.md">
+
+    <toc-element topic="一、把玩magic-api篇（2.环境搭建）.md"/>
+    <toc-element topic="一、把玩magic-api篇（1.介绍）.md"/>
+    <toc-element topic="一、把玩magic-api篇（3.探索）.md.md"/>
+    <toc-element topic="magic-api.md"/>
+</instance-profile>

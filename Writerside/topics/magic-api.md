@@ -1,0 +1,3 @@
+# About magic-api
+
+Start typing here...

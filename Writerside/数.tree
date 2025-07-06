@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="数"
+                 name="数学"
+                 start-page="数学.md">
+
+    <toc-element topic="数学.md"/>
+    <toc-element toc-title="线性代数">
+        <toc-element topic="符号.md"/>
+        <toc-element topic="线性代数的本质.md"/>
+    </toc-element>
+</instance-profile>

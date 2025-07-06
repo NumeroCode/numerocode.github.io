@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="画"
+                 name="画图"
+                 start-page="画图.md">
+
+    <toc-element topic="画图.md"/>
+</instance-profile>
