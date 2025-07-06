@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="add web">
-      <change afterPath="$PROJECT_DIR$/doc/HelpTOC.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/Map.jhm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/api-object-digest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/current.help.version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/images/PixPin_2025-07-06_17-54-20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/writerside.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/写作.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/截图软件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/搭建图床.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/HelpTOC.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/Map.jhm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/api-object-digest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/current.help.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/images/PixPin_2025-07-06_17-54-20.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/writerside.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/写作.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/截图软件.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/搭建图床.html" beforeDir="false" />
-    </list>
+    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="add web" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -335,6 +312,7 @@
   <component name="ProjectId" id="2zSXIkYdls0qFpwjC2nLEDwxEUz" />
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -424,7 +402,7 @@
       <workItem from="1751775915566" duration="443000" />
       <workItem from="1751776376467" duration="643000" />
       <workItem from="1751795481390" duration="7333000" />
-      <workItem from="1751809441600" duration="450000" />
+      <workItem from="1751809441600" duration="1285000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -450,7 +428,31 @@
       <option name="project" value="LOCAL" />
       <updated>1751809498624</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add web">
+      <option name="closed" value="true" />
+      <created>1751809913547</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751809913547</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add web">
+      <option name="closed" value="true" />
+      <created>1751809936560</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751809936560</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add web">
+      <option name="closed" value="true" />
+      <created>1751810098624</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751810098624</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
