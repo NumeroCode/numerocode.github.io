@@ -9,7 +9,7 @@
     <toc-element topic="写作.md"/>
     <toc-element toc-title="写作工具">
         <toc-element topic="markdown介绍.md"/>
-        <toc-element topic="WriterSide.md"/>
+        <toc-element topic="JetBrains WriterSide.md"/>
         <toc-element topic="截图软件.md"/>
         <toc-element topic="搭建图床.md"/>
 
