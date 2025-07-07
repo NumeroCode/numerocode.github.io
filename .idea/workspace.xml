@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="add web" />
+    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="fix index.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -324,7 +326,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;Writerside.PDF (magic-api).executor&quot;: &quot;Run&quot;,
     &quot;Writerside.写作web.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;github-pages&quot;,
     &quot;last_opened_file_path&quot;: &quot;D:/learn/numerocode/Writerside/topics/数学&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -403,6 +405,9 @@
       <workItem from="1751776376467" duration="643000" />
       <workItem from="1751795481390" duration="7333000" />
       <workItem from="1751809441600" duration="1285000" />
+      <workItem from="1751816559308" duration="1120000" />
+      <workItem from="1751852341331" duration="35000" />
+      <workItem from="1751871561242" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -452,7 +457,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751810098624</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix index.html">
+      <option name="closed" value="true" />
+      <created>1751816699479</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751816699479</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -473,6 +486,7 @@
     <MESSAGE value="gitignore" />
     <MESSAGE value="add md" />
     <MESSAGE value="add web" />
-    <option name="LAST_COMMIT_MESSAGE" value="add web" />
+    <MESSAGE value="fix index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix index.html" />
   </component>
 </project>
