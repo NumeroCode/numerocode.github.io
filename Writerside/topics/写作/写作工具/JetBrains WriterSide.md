@@ -1,5 +1,6 @@
 # WriterSide
-[官网](https://www.jetbrains.com/zh-cn/writerside/)
+[WriterSide官网](https://www.jetbrains.com/zh-cn/writerside/)
+[官方帮助文档](https://www.jetbrains.com/help/writerside/)
 ## 为何JetBrains Writerside是技术文档编写者的最佳选择？
 ![WriterSide](https://gitee.com/jinjun/numerocode-images/raw/master/2025-07-07-NZkcfm.png)
 

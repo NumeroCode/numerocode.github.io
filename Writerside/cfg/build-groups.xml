@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE build-groups SYSTEM "https://resources.jetbrains.com/writerside/1.0/build-groups.dtd">
+<build-groups
+        xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-groups.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <build-group name="数码编程">
+        <instance instance-id="写" alias="我的写作工具与技巧" path="/写"/>
+        <instance instance-id="magic-api" alias="magic-api" path="/magic-api"/>
+    </build-group>
+
+</build-groups>
