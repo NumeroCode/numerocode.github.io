@@ -1,3 +1,0 @@
-# numerocode.github.io
-
-yest
