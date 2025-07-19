@@ -4,7 +4,70 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="add web" />
+    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="add web">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/HelpTOC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Map.jhm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/api-object-digest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/current.help.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/HelpTOC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/Map.jhm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/api-object-digest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/current.help.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/datax-1-用户向导.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/datax-2-介绍.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/datax-3-1-自定义插件开发.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/datax-3-插件开发.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/datax-4-其他.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/datax-5-transformer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/datax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/images/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datax/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images/PixPin_2025-07-06_17-54-20.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/HelpTOC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/Map.jhm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/api-object-digest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/current.help.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/images/image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/magic-api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-1-介绍.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-2-环境搭建.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-3-探索-md.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/writerside.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/HelpTOC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/Map.jhm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/api-object-digest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/current.help.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/关于-写作-这个主题.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/写作工具-1-markdown介绍.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/写作工具-2-1-截图软件.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/写作工具-2-截图软件.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/写作工具-3-版本管理工具-git.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/写作工具-4-仓库管理-gitee.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/写作工具-5-jetbrains-writerside.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/写作工具-6-搭建图床.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/写作工具-7-grazie-pro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/写作工具-8-ai提示词.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/搭建博客-1-github-pages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/写作/搭建博客-2-gitee-pages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/截图软件.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/搭建图床.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/新建 文本文档.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -406,7 +469,7 @@
       <workItem from="1751795481390" duration="7333000" />
       <workItem from="1751809441600" duration="1285000" />
       <workItem from="1752916359616" duration="268000" />
-      <workItem from="1752916646691" duration="307000" />
+      <workItem from="1752916646691" duration="961000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -464,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752916784698</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add web">
+      <option name="closed" value="true" />
+      <created>1752917255630</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752917255630</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
