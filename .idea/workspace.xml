@@ -341,6 +341,9 @@
     &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
   }
 }</component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\learn\numerocode\Writerside\topics\数学" />
@@ -411,6 +414,10 @@
       <workItem from="1752935658961" duration="20000" />
       <workItem from="1752935685533" duration="66000" />
       <workItem from="1752935759790" duration="15000" />
+      <workItem from="1752935833047" duration="88000" />
+      <workItem from="1753020879542" duration="52000" />
+      <workItem from="1753020945259" duration="38000" />
+      <workItem from="1753020988388" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -492,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752935006827</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="更新站点">
+      <option name="closed" value="true" />
+      <created>1752935876781</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1752935876781</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
