@@ -422,6 +422,8 @@
       <workItem from="1753022795000" duration="11000" />
       <workItem from="1753022820669" duration="252000" />
       <workItem from="1753115153486" duration="8000" />
+      <workItem from="1753115188939" duration="167000" />
+      <workItem from="1753115490637" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -527,7 +529,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753022874186</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="build: 更新站点&#10;&#10;- 更新了 datax 和 datax-1-用户向导 两个 HTML 文件- 修改了网站的构建时间、图标等元数据&#10;- 优化了部分代码格式和内容">
+      <option name="closed" value="true" />
+      <created>1753115259473</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1753115259473</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
