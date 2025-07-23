@@ -327,7 +327,7 @@
     &quot;Writerside.写作web.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/learn/numerocode/Writerside/topics/数学&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/numerocode/numerocode.github.io&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -346,6 +346,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\numerocode\numerocode.github.io" />
       <recent name="D:\learn\numerocode\Writerside\topics\数学" />
       <recent name="D:\learn\numerocode\Writerside\images" />
     </key>
@@ -426,6 +427,9 @@
       <workItem from="1753115490637" duration="14000" />
       <workItem from="1753115517005" duration="71000" />
       <workItem from="1753153620148" duration="236000" />
+      <workItem from="1753153952979" duration="738000" />
+      <workItem from="1753169578413" duration="36000" />
+      <workItem from="1753283765941" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -571,7 +575,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753153842671</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="build: 更新站点&#10;&#10;- 更新了 datax 和 datax-1-用户向导 两个 HTML 文件- 修改了网站的构建时间、图标等元数据&#10;- 优化了部分代码格式和内容">
+      <option name="closed" value="true" />
+      <created>1753153981667</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1753153981667</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
