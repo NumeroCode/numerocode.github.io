@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="docs(writing): 更新写作工具相关文档&#10;&#10;- 新增 PixPin截图工具的使用介绍&#10;- 添加 Git 版本控制系统的使用教程&#10;- 补充 Gitee 远程仓库的使用说明" />
+    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="docs(writing): 更新写作工具相关文档&#10;&#10;- 新增 PixPin截图工具的使用介绍&#10;- 添加 Git 版本控制系统的使用教程- 补充 Gitee远程仓库的使用说明" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -435,6 +435,8 @@
       <workItem from="1753802901968" duration="7000" />
       <workItem from="1753802915210" duration="17000" />
       <workItem from="1753802940262" duration="7000" />
+      <workItem from="1753802963382" duration="76000" />
+      <workItem from="1753804598663" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -604,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753284954856</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="docs(writing): 更新写作工具相关文档&#10;&#10;- 新增 PixPin截图工具的使用介绍&#10;- 添加 Git 版本控制系统的使用教程- 补充 Gitee远程仓库的使用说明">
+      <option name="closed" value="true" />
+      <created>1753803016630</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1753803016630</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -629,6 +639,7 @@
     <MESSAGE value="更新站点" />
     <MESSAGE value="build: 更新站点&#10;&#10;- 更新了 datax 和 datax-1-用户向导 两个 HTML 文件- 修改了网站的构建时间、图标等元数据&#10;- 优化了部分代码格式和内容" />
     <MESSAGE value="docs(writing): 更新写作工具相关文档&#10;&#10;- 新增 PixPin截图工具的使用介绍&#10;- 添加 Git 版本控制系统的使用教程&#10;- 补充 Gitee 远程仓库的使用说明" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs(writing): 更新写作工具相关文档&#10;&#10;- 新增 PixPin截图工具的使用介绍&#10;- 添加 Git 版本控制系统的使用教程&#10;- 补充 Gitee 远程仓库的使用说明" />
+    <MESSAGE value="docs(writing): 更新写作工具相关文档&#10;&#10;- 新增 PixPin截图工具的使用介绍&#10;- 添加 Git 版本控制系统的使用教程- 补充 Gitee远程仓库的使用说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs(writing): 更新写作工具相关文档&#10;&#10;- 新增 PixPin截图工具的使用介绍&#10;- 添加 Git 版本控制系统的使用教程- 补充 Gitee远程仓库的使用说明" />
   </component>
 </project>
