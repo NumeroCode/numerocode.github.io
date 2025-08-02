@@ -1,0 +1,106 @@
+<!DOCTYPE html SYSTEM "about:legacy-compat">
+<html lang="en-US" data-preset="contrast" data-primary-color="#307FFF"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="UTF-8"><meta name="robots" content="noindex"><meta name="built-on" content="2025-08-03T01:12:09.9478588"><title>Markdown：技术人的写作利器，让文档不再&quot;码&quot;不停蹄 | 开始写作</title><script type="application/json" id="virtual-toc-data">[{"id":"markdown-word","level":0,"title":"一、为什么要用Markdown？Word它不香吗？","anchor":"#markdown-word"},{"id":"markdown","level":0,"title":"二、Markdown是啥玩意儿？","anchor":"#markdown"},{"id":"markdown","level":0,"title":"三、Markdown的优缺点：没有完美的工具，只有合适的工具","anchor":"#markdown"},{"id":"markdown","level":0,"title":"四、Markdown语法速成班：几分钟让你变大神","anchor":"#markdown"}]</script><script type="application/json" id="topic-shortcuts"></script><link href="https://resources.jetbrains.com/writerside/apidoc/6.22.0-b776/app.css" rel="stylesheet"><link rel="icon" type="image/png" sizes="16x16" href="images/logo.png"><meta name="image" content=""><!-- Open Graph --><meta property="og:title" content="Markdown：技术人的写作利器，让文档不再&quot;码&quot;不停蹄 | 开始写作"><meta property="og:description" content=""><meta property="og:image" content=""><meta property="og:site_name" content="开始写作 Help"><meta property="og:type" content="website"><meta property="og:locale" content="en_US"><meta property="og:url" content="writerside-documentation/writing/写作工具-1-markdown介绍2.html"><!-- End Open Graph --><!-- Twitter Card --><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content=""><meta name="twitter:title" content="Markdown：技术人的写作利器，让文档不再&quot;码&quot;不停蹄 | 开始写作"><meta name="twitter:description" content=""><meta name="twitter:creator" content=""><meta name="twitter:image:src" content=""><!-- End Twitter Card --><!-- Schema.org WebPage --><script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "WebPage",
+    "@id": "writerside-documentation/writing/写作工具-1-markdown介绍2.html#webpage",
+    "url": "writerside-documentation/writing/写作工具-1-markdown介绍2.html",
+    "name": "Markdown：技术人的写作利器，让文档不再&quot;码&quot;不停蹄 | 开始写作",
+    "description": "",
+    "image": "",
+    "inLanguage":"en-US"
+}</script><!-- End Schema.org --><!-- Schema.org WebSite --><script type="application/ld+json">{
+    "@type": "WebSite",
+    "@id": "writerside-documentation/writing/#website",
+    "url": "writerside-documentation/writing/",
+    "name": "开始写作 Help"
+}</script><!-- End Schema.org --></head><body data-id="写作工具【1】markdown介绍2" data-main-title="Markdown：技术人的写作利器，让文档不再&quot;码&quot;不停蹄" data-article-props="{&quot;seeAlsoStyle&quot;:&quot;links&quot;}" data-template="article" data-breadcrumbs="技术写作工具"><div class="wrapper"><main class="panel _main"><header class="panel__header"><div class="container"><h3>开始写作  Help</h3><div class="panel-trigger"></div></div></header><section class="panel__content"><div class="container"><article class="article" data-shortcut-switcher="inactive"><h1 data-toc="写作工具【1】markdown介绍2" id="写作工具【1】markdown介绍2.md">Markdown：技术人的写作利器，让文档不再&quot;码&quot;不停蹄</h1><p> <img alt="2025 08 02 fz n6xq" src="https://numerocode.top/2025-08-02-FzN6xq.png" class="inline-icon-" title="2025 08 02 fz n6xq" id="irdv1n_3"></p><p id="irdv1n_11">哈喽，各位码友！我是你们的老朋友阿军,一名工作多年的程序员。</p><p> 各位技术同仁，我是军哥。今天我们来聊聊每个程序员都应该掌握的技能&mdash;&mdash;Markdown。 </p><p id="irdv1n_5"><img alt="2025 08 02 f8xb ki" src="https://numerocode.top/2025-08-02-f8XbKi.png" class="inline-icon-" title="2025 08 02 f8xb ki" id="irdv1n_12"> <img alt="2025 08 02 t c6h76" src="https://numerocode.top/2025-08-02-tC6H76.png" class="inline-icon-" title="2025 08 02 t c6h76" id="irdv1n_13"> <img alt="2025 08 02 jo csi8" src="https://numerocode.top/docs/2025-08-02-JoCsi8.png" class="inline-icon-" title="2025 08 02 jo csi8" id="irdv1n_14"></p><section class="chapter"><h2 id="markdown-word" data-toc="markdown-word">一、为什么要用Markdown？Word它不香吗？</h2><p id="irdv1n_15">估计不少人跟我当初一样，觉得Word、WPS这些富文本编辑器挺好的，为啥要折腾Markdown？</p><p id="irdv1n_16">直到某天，我在写技术文档的时候，光是调个格式就花了半小时，一会儿字体不对，一会儿缩进有问题，最后还要到处兼容不同平台的格式...那一刻我真是：</p><p id="irdv1n_17">卧槽！我只是想写个文档，不是在参加格式化大赛啊！</p><p id="irdv1n_18">这时候才意识到，Markdown这玩意儿真不是可有可无的玩具，而是实打实的生产力工具：</p><ol class="list _decimal" id="irdv1n_19" type="1"><li class="list__item" id="irdv1n_20"><p id="irdv1n_24"><span class="control" id="irdv1n_25">专注内容</span> ：不用被格式化打断思路，专心码字才是正经事</p></li><li class="list__item" id="irdv1n_21"><p id="irdv1n_26"><span class="control" id="irdv1n_27">一稿多投</span> ：写一次，到处都能用，再也不用为每个平台调整格式</p></li><li class="list__item" id="irdv1n_22"><p id="irdv1n_28"><span class="control" id="irdv1n_29">版本管理友好</span> ：纯文本格式，Git管理起来不要太爽</p></li><li class="list__item" id="irdv1n_23"><p id="irdv1n_30"><span class="control" id="irdv1n_31">学习成本低</span> ：几分钟就能上手，语法简单到哭</p></li></ol></section><section class="chapter"><h2 id="markdown" data-toc="markdown">二、Markdown是啥玩意儿？</h2><p id="irdv1n_32">简单来说，Markdown就是一种轻量级的标记语言。它允许你用易读易写的纯文本格式编写文档，然后转换成结构化的HTML（或者其他格式）。</p><p id="irdv1n_33">发明这玩意儿的是John Gruber大神，目的就是让写作者专注于内容本身，而不是纠结于格式化。</p><p id="irdv1n_34">个人觉得，这玩意儿简直就是为咱们程序员量身定做的写作工具。</p></section><section class="chapter"><h2 id="markdown" data-toc="markdown">三、Markdown的优缺点：没有完美的工具，只有合适的工具</h2><section class="chapter"><h3 id="irdv1n_35" data-toc="irdv1n_35">优点：</h3><ul class="list _bullet" id="irdv1n_37"><li class="list__item" id="irdv1n_38"><p id="irdv1n_43"><span class="control" id="irdv1n_44">简单易学</span> ：语法简单到哭，几分钟就能上手</p></li><li class="list__item" id="irdv1n_39"><p id="irdv1n_45"><span class="control" id="irdv1n_46">专注写作</span> ：不用被复杂的格式化功能打断思路</p></li><li class="list__item" id="irdv1n_40"><p id="irdv1n_47"><span class="control" id="irdv1n_48">跨平台兼容</span> ：几乎所有写作平台都支持Markdown</p></li><li class="list__item" id="irdv1n_41"><p id="irdv1n_49"><span class="control" id="irdv1n_50">版本控制友好</span> ：纯文本格式，Git管理起来很舒服</p></li><li class="list__item" id="irdv1n_42"><p id="irdv1n_51"><span class="control" id="irdv1n_52">可扩展性强</span> ：各种编辑器和插件让你如虎添翼</p></li></ul></section><section class="chapter"><h3 id="irdv1n_36" data-toc="irdv1n_36">缺点：</h3><ul class="list _bullet" id="irdv1n_53"><li class="list__item" id="irdv1n_55"><p id="irdv1n_58"><span class="control" id="irdv1n_59">功能相对简单</span> ：复杂排版需求可能满足不了</p></li><li class="list__item" id="irdv1n_56"><p id="irdv1n_60"><span class="control" id="irdv1n_61">学习曲线</span> ：对于非技术人员可能需要适应期</p></li><li class="list__item" id="irdv1n_57"><p id="irdv1n_62"><span class="control" id="irdv1n_63">标准不统一</span> ：不同平台可能支持的语法略有差异</p></li></ul><p id="irdv1n_54">那都不叫事，对于咱们技术人员来说，这些都不是问题。无所谓啦～</p></section></section><section class="chapter"><h2 id="markdown" data-toc="markdown">四、Markdown语法速成班：几分钟让你变大神</h2><p id="irdv1n_64">别被&quot;语法&quot;这个词吓到，Markdown的语法比你想象的简单多了。</p><section class="chapter"><h3 id="irdv1n_65" data-toc="irdv1n_65">基础语法：</h3><div class="code-block" data-lang="markdown">
+# 一级标题
+## 二级标题
+### 三级标题
+
+**粗体**
+*斜体*
+
+- 无序列表
+- 无序列表
+
+1. 有序列表
+2. 有序列表
+
+[链接文字](链接地址)
+![图片描述](图片链接)
+
+&gt; 引用内容
+
+`行内代码`
+</div><div class="code-block" data-lang="none">
+代码块
+代码内容
+</div><div class="code-block" data-lang="none">
+
+
+看，是不是简单到哭？这些基本语法就够你用了90%的场景。
+
+## 五、如何快速上手Markdown？
+
+别想太多，直接开干就对了：
+
+1. **选择一个编辑器**：推荐Typora、VS Code、MarkText等
+2. **找个教程**：网上一搜一大把，十分钟就能看完
+3. **动手写点什么**：新建个.md文件，随便写点东西试试
+4. **多用多练**：熟能生巧，用多了自然就熟悉了
+
+个人觉得，学Markdown比学Vim简单多了，别想太多，直接上手就行。
+
+## 六、Markdown VS 富文本：谁才是真正的王者？
+
+这个问题就像&quot;可乐和雪碧哪个好喝&quot;一样，没有标准答案，只有个人偏好。
+
+### Markdown的优势：
+
+- **专注内容**：不会被格式化功能打断思路
+- **跨平台兼容**：在任何支持Markdown的平台都能保持格式
+- **版本控制友好**：Git diff一目了然
+- **学习成本低**：语法简单，几分钟上手
+
+### 富文本的优势：
+
+- **所见即所得**：编辑时就能看到最终效果
+- **格式化功能丰富**：复杂排版需求更容易满足
+- **上手门槛低**：对非技术人员更友好
+
+个人觉得，对于咱们技术人员来说，Markdown绝对是首选。专注内容，格式交给工具处理就行。
+
+## 七、军哥私藏资料推荐
+
+说了这么多，不如来点实在的。这些是我用过的觉得不错的资源：
+
+### 编辑器推荐：
+
+- **Typora**：所见即所得，颜值很高（不过现在开始收费了）
+- **VS Code**：配合Markdown插件，功能强大
+- **MarkText**：开源免费，界面清爽
+- **Obsidian**：笔记管理神器，Markdown支持超棒
+
+### 学习资源：
+
+- **Markdown官方教程**：最权威的资料
+- **阮一峰的Markdown教程**：国人写的，通俗易懂
+- **GitHub的Markdown指南**：实用性强
+
+### 实战平台：
+
+- **GitHub**：写README.md的机会到处都是
+- **各种博客平台**：练手的好地方
+- **公司内部文档系统**：工作中用起来
+
+## 结语
+
+Markdown这东西，说重要吧也不是核心技能，但说不重要吧，真能提升你的写作效率。掌握这个工具，能让你的技术写作之路顺畅不少。
+
+好了，今天就聊到这里。下次你们想看啥技术工具，评论区告诉我，军哥我继续给你们扒。
+
+记住，技术路上，军哥与你同在！```
+
+&lt;include from=&quot;数说编程.md&quot; element-id=&quot;conclusion&quot;&gt;&lt;/include&gt;
+</div></section></section><div class="last-modified">02 八月 2025</div><div data-feedback-placeholder="true"></div><div class="navigation-links _bottom"><a href="写作工具-1-markdown介绍.html" class="navigation-links__prev">Markdown：简洁高效的文本标记语言</a><a href="写作工具-2-截图软件之pixpin.html" class="navigation-links__next">PixPin：免费的截图神器，写作的好帮手</a></div></article><div id="disqus_thread"></div></div></section></main></div><script src="https://resources.jetbrains.com/writerside/apidoc/6.22.0-b776/app.js"></script></body></html>
