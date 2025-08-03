@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="更新">
-      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Identity/firstgithub.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/firstgithub.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Identity/个人域名介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/个人域名介绍.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Identity/互联网守则.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/互联网守则.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Identity/互联网身份.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/互联网身份.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Identity/微信.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/微信.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Identity/邮箱.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/邮箱.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/magic-api.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/magic-api.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-1-介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-1-介绍.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-2-环境搭建.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-2-环境搭建.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-3-探索-md.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-3-探索-md.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -459,7 +469,7 @@
       <workItem from="1754232679244" duration="23000" />
       <workItem from="1754232707001" duration="13000" />
       <workItem from="1754232727929" duration="9000" />
-      <workItem from="1754232753658" duration="2293000" />
+      <workItem from="1754232753658" duration="4147000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -781,7 +791,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754235709989</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="更新">
+      <option name="closed" value="true" />
+      <created>1754236190066</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1754236190066</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
