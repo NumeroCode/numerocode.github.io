@@ -452,6 +452,7 @@
       <workItem from="1754218308328" duration="14000" />
       <workItem from="1754218340347" duration="5190000" />
       <workItem from="1754231134324" duration="8000" />
+      <workItem from="1754231159250" duration="60000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -725,7 +726,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754230610138</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="更新">
+      <option name="closed" value="true" />
+      <created>1754231189694</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1754231189694</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
