@@ -4,56 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="更新">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Identity/firstgithub.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/firstgithub.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Identity/个人域名介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/个人域名介绍.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Identity/互联网守则.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/互联网守则.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Identity/互联网身份.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/互联网身份.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Identity/微信.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/微信.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Identity/邮箱.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/邮箱.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax-1-用户向导.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax-1-用户向导.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax-2-介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax-2-介绍.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax-3-1-自定义插件开发.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax-3-1-自定义插件开发.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax-3-插件开发.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax-3-插件开发.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax-4-其他.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax-4-其他.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax-5-transformer.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax-5-transformer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/magic-api/magic-api.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/magic-api.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-1-介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-1-介绍.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-2-环境搭建.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-2-环境搭建.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-3-探索-md.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-3-探索-md.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/python/python系列.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python/python系列.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/python/公众号-1-介绍以及规则.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python/公众号-1-介绍以及规则.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/个人域名介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/个人域名介绍.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/公众号-1-介绍以及规则.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/公众号-1-介绍以及规则.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/公众号-2-后台设置和使用技巧.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/公众号-2-后台设置和使用技巧.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/公众号-3-公众号小助手.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/公众号-3-公众号小助手.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/公众号-3-智能体腾讯元器.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/公众号-3-智能体腾讯元器.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/公众号-4-我的数字分身.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/公众号-4-我的数字分身.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-0-前言.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-0-前言.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-1-markdown介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-1-markdown介绍.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-1-markdown介绍2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-1-markdown介绍2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-10-ai提示词.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-10-ai提示词.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-2-截图软件之pixpin.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-2-截图软件之pixpin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-3-图片生成工具.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-3-图片生成工具.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-4-文章版本管理之git.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-4-文章版本管理之git.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-5-搭建图床.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-5-搭建图床.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-6-远程仓库之gitee.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-6-远程仓库之gitee.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-6-远程仓库之github.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-6-远程仓库之github.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-7-集成开发工具intellij-idea.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-7-集成开发工具intellij-idea.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-8-writerside.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-8-writerside.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/写作工具-9-ai写作工具.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/写作工具-9-ai写作工具.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/技术写作系列介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/技术写作系列介绍.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/搭建个人博客-0-搭建个人博客前言.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/搭建个人博客-0-搭建个人博客前言.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/搭建个人博客-1-注册个人域名.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/搭建个人博客-1-注册个人域名.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/搭建个人博客-2-github-pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/搭建个人博客-2-github-pages.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/搭建个人博客-3-gitee-pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/搭建个人博客-3-gitee-pages.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/文章发布平台前言.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/文章发布平台前言.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/智能体的区别.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/智能体的区别.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/知乎-1-介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/知乎-1-介绍.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
-    </list>
+    <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="更新" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -499,7 +450,8 @@
       <workItem from="1754217495792" duration="11000" />
       <workItem from="1754217528522" duration="271000" />
       <workItem from="1754218308328" duration="14000" />
-      <workItem from="1754218340347" duration="5107000" />
+      <workItem from="1754218340347" duration="5190000" />
+      <workItem from="1754231134324" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="gitignore">
       <option name="closed" value="true" />
@@ -765,7 +717,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754227880922</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="更新">
+      <option name="closed" value="true" />
+      <created>1754230610138</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1754230610138</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -783,6 +743,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="gitignore" />
     <MESSAGE value="add md" />
     <MESSAGE value="add web" />
