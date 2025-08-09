@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="更新">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Identity/firstgithub.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/firstgithub.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Identity/个人域名介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/个人域名介绍.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Identity/互联网守则.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/互联网守则.html" afterDir="false" />
@@ -25,7 +24,6 @@
       <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-3-探索-md.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-3-探索-md.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/python/python系列.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python/python系列.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/python/公众号-1-介绍以及规则.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python/公众号-1-介绍以及规则.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/Map.jhm" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/Map.jhm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/个人域名介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/个人域名介绍.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/公众号-1-介绍以及规则.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/公众号-1-介绍以及规则.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/公众号-2-后台设置和使用技巧.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/公众号-2-后台设置和使用技巧.html" afterDir="false" />
@@ -55,6 +53,7 @@
       <change beforePath="$PROJECT_DIR$/docs/writing/搭建个人博客-3-gitee-pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/搭建个人博客-3-gitee-pages.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/智能体的区别.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/智能体的区别.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/知乎-1-介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/知乎-1-介绍.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -524,15 +523,7 @@
       <workItem from="1754733621074" duration="52000" />
       <workItem from="1754735042327" duration="9000" />
       <workItem from="1754735066755" duration="1311000" />
-      <workItem from="1754737129700" duration="312000" />
-    </task>
-    <task id="LOCAL-00002" summary="add md">
-      <option name="closed" value="true" />
-      <created>1751808782419</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1751808782419</updated>
+      <workItem from="1754737129700" duration="949000" />
     </task>
     <task id="LOCAL-00003" summary="add web">
       <option name="closed" value="true" />
@@ -918,7 +909,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754736503186</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="更新">
+      <option name="closed" value="true" />
+      <created>1754737466412</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1754737466412</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
