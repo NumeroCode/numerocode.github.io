@@ -23,10 +23,8 @@
       <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-1-介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-1-介绍.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-2-环境搭建.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-2-环境搭建.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-3-探索-md.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-3-探索-md.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/python/HelpTOC.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python/HelpTOC.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/python/python系列.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python/python系列.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/python/公众号-1-介绍以及规则.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python/公众号-1-介绍以及规则.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/writing/HelpTOC.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/HelpTOC.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/Map.jhm" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/Map.jhm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/个人域名介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/个人域名介绍.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/公众号-1-介绍以及规则.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/公众号-1-介绍以及规则.html" afterDir="false" />
@@ -525,15 +523,8 @@
       <workItem from="1754733596409" duration="10000" />
       <workItem from="1754733621074" duration="52000" />
       <workItem from="1754735042327" duration="9000" />
-      <workItem from="1754735066755" duration="653000" />
-    </task>
-    <task id="LOCAL-00001" summary="gitignore">
-      <option name="closed" value="true" />
-      <created>1751808314944</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1751808314944</updated>
+      <workItem from="1754735066755" duration="1311000" />
+      <workItem from="1754737129700" duration="312000" />
     </task>
     <task id="LOCAL-00002" summary="add md">
       <option name="closed" value="true" />
@@ -919,7 +910,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754735097501</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="更新">
+      <option name="closed" value="true" />
+      <created>1754736503186</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1754736503186</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
