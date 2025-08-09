@@ -5,25 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bffc66f4-6db3-4eff-bb0b-1b0c640ca405" name="更改" comment="更新">
-      <change beforePath="$PROJECT_DIR$/docs/Identity/firstgithub.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/firstgithub.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Identity/个人域名介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/个人域名介绍.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Identity/互联网守则.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/互联网守则.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Identity/互联网身份.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/互联网身份.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Identity/微信.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/微信.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Identity/邮箱.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Identity/邮箱.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax-1-用户向导.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax-1-用户向导.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax-2-介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax-2-介绍.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax-3-1-自定义插件开发.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax-3-1-自定义插件开发.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax-3-插件开发.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax-3-插件开发.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax-4-其他.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax-4-其他.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax-5-transformer.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax-5-transformer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/datax/datax.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datax/datax.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/magic-api/magic-api.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/magic-api.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-1-介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-1-介绍.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-2-环境搭建.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-2-环境搭建.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-3-探索-md.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/magic-api/一-把玩magic-api篇-3-探索-md.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/python/python系列.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python/python系列.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/python/公众号-1-介绍以及规则.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/python/公众号-1-介绍以及规则.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/个人域名介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/个人域名介绍.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/公众号-1-介绍以及规则.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/公众号-1-介绍以及规则.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/公众号-2-后台设置和使用技巧.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/公众号-2-后台设置和使用技巧.html" afterDir="false" />
@@ -523,15 +504,7 @@
       <workItem from="1754733621074" duration="52000" />
       <workItem from="1754735042327" duration="9000" />
       <workItem from="1754735066755" duration="1311000" />
-      <workItem from="1754737129700" duration="3340000" />
-    </task>
-    <task id="LOCAL-00005" summary="add web">
-      <option name="closed" value="true" />
-      <created>1751809936560</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1751809936560</updated>
+      <workItem from="1754737129700" duration="3963000" />
     </task>
     <task id="LOCAL-00006" summary="add web">
       <option name="closed" value="true" />
@@ -917,7 +890,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754753767338</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="更新">
+      <option name="closed" value="true" />
+      <created>1754759312014</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1754759312014</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
