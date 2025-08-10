@@ -53,6 +53,7 @@
       <change beforePath="$PROJECT_DIR$/docs/writing/搭建个人博客-3-gitee-pages.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/搭建个人博客-3-gitee-pages.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/智能体的区别.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/智能体的区别.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/writing/知乎-1-介绍.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/writing/知乎-1-介绍.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/report.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -523,15 +524,7 @@
       <workItem from="1754735042327" duration="9000" />
       <workItem from="1754735066755" duration="1311000" />
       <workItem from="1754737129700" duration="5267000" />
-      <workItem from="1754805951508" duration="1028000" />
-    </task>
-    <task id="LOCAL-00008" summary="add web">
-      <option name="closed" value="true" />
-      <created>1752917255630</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1752917255630</updated>
+      <workItem from="1754805951508" duration="2186000" />
     </task>
     <task id="LOCAL-00009" summary="fix README.md">
       <option name="closed" value="true" />
@@ -917,7 +910,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754806005206</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="更新">
+      <option name="closed" value="true" />
+      <created>1754807007854</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1754807007854</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
